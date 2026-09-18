@@ -1,39 +1,50 @@
 # Customer_Shopping_Behavior
- Overview
+ # 🛍️ Customer Shopping Behavior Analytics
 
-Customer behavior analysis project using **SQL, Python, and Power BI** to explore customer patterns and generate business insights.
+### **Understanding Customer Purchases Through Data**
 
-The dataset was sourced from **Kaggle**.
+An end-to-end **Data Analytics project** focused on analyzing customer shopping patterns, purchasing behavior, product preferences, and customer segments using **Python, SQL, and Power BI**.
 
-Tools Used
+The project transforms raw customer transaction data into **interactive visualizations and business insights** that help understand how customers shop and what factors influence their purchasing behavior.
 
-* **Python** – Data cleaning & analysis
-* **SQL** – Data querying & analysis
-* **Power BI** – Interactive dashboard & visualization
+---
 
-Analysis
+## 🎯 Project Objective
 
-* Explored customer behavior and purchasing patterns
-* Performed data analysis using SQL queries
-* Used Python for data preparation and exploration
-* Created an interactive Power BI dashboard to visualize key metrics and trends
+The objective is to explore customer shopping data and answer questions such as:
 
+* What products and categories are most preferred by customers?
+* How does purchasing behavior vary across customer segments?
+* Which factors are associated with higher purchase activity?
+* What patterns can be identified from customer shopping behavior?
+* How can customer data support better business decisions?
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Customer Data
+        ↓
+Data Cleaning & Preparation
+        ↓
+Python EDA
+        ↓
+SQL Analysis
+        ↓
 Power BI Dashboard
+        ↓
+Customer Behavior Insights
+```
 
-The dashboard provides an interactive view of customer behavior through KPIs, charts, and filters.
+---
 
-Key Insights
+## 🧰 Tools & Technologies
 
-* Identified important customer behavior patterns
-* Analyzed trends across different customer segments
-* Highlighted metrics useful for business decision-making
-
-Project Files
-
-* `Customer Behavior Dashboard.pbix` – Power BI dashboard
-* `SQL` – SQL queries used for analysis
-* `Python` – Python analysis/notebook
-* `Dataset` – Kaggle dataset
-
-
-
+**Python** — Data analysis & exploration
+**Pandas** — Data manipulation & cleaning
+**NumPy** — Numerical analysis
+**Matplotlib / Plotly** — Data visualization
+**MySQL** — SQL-based analysis
+**Power BI** — Interactive dashboard & reporting
+**Jupyter Notebook** — Python analysis environment
